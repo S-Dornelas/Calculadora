@@ -1,7 +1,6 @@
 # Calculadora-C-
 Calculadora C#
 
-
 namespace Calculadora
 {
     internal class Programa
