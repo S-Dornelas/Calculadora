@@ -36,9 +36,8 @@ namespace Calculadora
                 case 5: System.Environment.Exit(0); break;
                 default: menu(); break;
             }
-
-
         }
+        
         static void soma()
         {
             Console.Clear();
@@ -58,6 +57,7 @@ namespace Calculadora
             Console.ReadKey();
             menu();
         }
+        
         static void subtrair()
         {
             Console.Clear();
@@ -76,6 +76,7 @@ namespace Calculadora
             Console.ReadKey();
             menu();
         }
+        
         static void multiplicacao()
         {
             Console.Clear();
@@ -94,6 +95,7 @@ namespace Calculadora
             menu();
 
         }
+        
         static void divisao()
         {
             Console.Clear();
