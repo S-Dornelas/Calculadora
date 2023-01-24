@@ -1,11 +1,14 @@
-# Calculadora-C-
-Calculadora C#
+# Calculadora C#
+
+Criando uma calculadora com as operações básicas.
+
+Nesta aplicação aprendi como utilizar condicionantes, bem como métodos para facilitar a leitura do código.
 
 namespace Calculadora
 {
-    internal class Programa
+    public class Programa
     {
-        private static void Main(string[] args)
+        public static void Main(string[] args)
         {
             menu();
         }
